@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = RubyApi::VERSION
   s.authors     = ["JoshS"]
   s.email       = ["wolfpack@vulk.co"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RubyApi."
-  s.description = "TODO: This wil a custom implementation of a plugin that will generate a rails api suitable for a javascript client side application"
+  s.homepage    = ""
+  s.summary     = "Summary of RubyApi."
+  s.description = "This wil a custom implementation of a plugin that will generate a rails api suitable for a javascript client side application"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
